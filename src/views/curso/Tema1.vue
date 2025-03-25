@@ -195,7 +195,7 @@
         .row
           .col-md-6.col-lg-7.col-xl-8.mb-4.mb-md-0.order-2
             h4 Gestión efectiva de los recursos
-            p.mb-0.p-4 Además de la capacitación, la gestión efectiva de los recursos es fundamental para garantizar que todo el trabajo se realice de manera eficiente y sin contratiempos. Los recursos deben ser gestionados adecuadamente para evitar retrasos, escasez de insumos o problemas logísticos. La planificación detallada de los recursos, que se realizó en la fase anterior, debe ser monitoreada durante la ejecución para asegurar que las cantidades y tipos de recursos sean los correctos, y que estén disponibles en el momento adecuado para cumplir con los plazos establecidos.
+            p Además de la capacitación, la gestión efectiva de los recursos es fundamental para garantizar que todo el trabajo se realice de manera eficiente y sin contratiempos. Los recursos deben ser gestionados adecuadamente para evitar retrasos, escasez de insumos o problemas logísticos. La planificación detallada de los recursos, que se realizó en la fase anterior, debe ser monitoreada durante la ejecución para asegurar que las cantidades y tipos de recursos sean los correctos, y que estén disponibles en el momento adecuado para cumplir con los plazos establecidos.
           .col-md-6.col-lg-5.col-xl-4.order-1
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema1/tab-2.png', alt='')
@@ -204,7 +204,7 @@
         .row
           .col-md-6.col-lg-7.col-xl-8.mb-4.mb-md-0.order-2
             h4 Coordinación efectiva
-            p.mb-0.p-4 Es importante también asegurar la coordinación efectiva entre todos los involucrados en la implementación de los planes. Esto incluye la colaboración entre diferentes departamentos o equipos dentro de la organización, asegurando que las actividades se realicen de manera sincronizada y sin interferencias. La comunicación abierta y constante entre los equipos es esencial en esta fase para resolver cualquier problema que surja y para asegurar que todos estén alineados con los objetivos y las expectativas.
+            p Es importante también asegurar la coordinación efectiva entre todos los involucrados en la implementación de los planes. Esto incluye la colaboración entre diferentes departamentos o equipos dentro de la organización, asegurando que las actividades se realicen de manera sincronizada y sin interferencias. La comunicación abierta y constante entre los equipos es esencial en esta fase para resolver cualquier problema que surja y para asegurar que todos estén alineados con los objetivos y las expectativas.
           .col-md-6.col-lg-5.col-xl-4.order-1
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema1/tab-3.png', alt='')
@@ -213,7 +213,7 @@
         .row
           .col-md-6.col-lg-7.col-xl-8.mb-4.mb-md-0.order-2
             h4 Supervisión constante
-            p.mb-0.p-4 Además, la supervisión constante de la ejecución es crucial para asegurar que los procesos se realicen conforme a lo planificado. Esto implica monitorear el progreso, realizar ajustes si es necesario y corregir cualquier desvío respecto a los objetivos. La recopilación de datos y el seguimiento del rendimiento durante la fase de ejecución permiten detectar problemas de manera temprana y tomar decisiones correctivas antes que se conviertan en obstáculos importantes. Un sistema de monitoreo adecuado también permite una mayor visibilidad del estado de las actividades, lo que facilita la toma de decisiones informadas durante la implementación.
+            p Además, la supervisión constante de la ejecución es crucial para asegurar que los procesos se realicen conforme a lo planificado. Esto implica monitorear el progreso, realizar ajustes si es necesario y corregir cualquier desvío respecto a los objetivos. La recopilación de datos y el seguimiento del rendimiento durante la fase de ejecución permiten detectar problemas de manera temprana y tomar decisiones correctivas antes que se conviertan en obstáculos importantes. Un sistema de monitoreo adecuado también permite una mayor visibilidad del estado de las actividades, lo que facilita la toma de decisiones informadas durante la implementación.
           .col-md-6.col-lg-5.col-xl-4.order-1
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema1/tab-4.png', alt='')
