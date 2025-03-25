@@ -1,7 +1,8 @@
 export default {
   global: {
-    numeroUnidad: '3',
-    tituloUnidad: 'Bioética y sostenibilidad en el desarrollo económico global',
+    numeroUnidad: '2',
+    tituloUnidad:
+      'Integración de los sistemas de gestión y la gestión integral',
   },
   menuPrincipal: {
     menu: [
@@ -15,7 +16,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Título tema',
+        titulo: 'Teorías y métodos de integración',
         desarrolloContenidos: true,
         subMenu: [
           {

@@ -22,9 +22,9 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Desde la necesidad de coordinar múltiples áreas operativas, los sistemas integrados de gestión han emergido como una estrategia esencial para el éxito empresarial. Esta unidad profundizará en los conceptos fundamentales, evolución y ventajas de integrar sistemas de gestión como calidad, medio ambiente y seguridad. Con un enfoque práctico, aprenderás cómo estas herramientas optimizan recursos, promueven la sostenibilidad y fortalecen la competitividad organizacional.
+              p.descripcion.mb-4 En un entorno empresarial en constante transformación, la capacidad de integrar de manera efectiva los sistemas de gestión se ha convertido en un factor decisivo para el éxito organizacional. En esta unidad, se explorará cómo las teorías y métodos de integración ofrecen un marco estructurado que optimiza procesos, alinea estrategias y fortalece la capacidad de las organizaciones para responder a los desafíos del mercado actual. Este enfoque no solo mejora la eficiencia operativa, sino que también promueve la sostenibilidad y la resiliencia empresarial.
 
-              p #[b ¡Prepárese para liderar procesos innovadores con visión estratégica y eficiencia!]
+              p #[b ¡Prepárese para liderar la gestión integrada con una visión estratégica y una ejecución impecable!]
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
