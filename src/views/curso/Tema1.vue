@@ -145,7 +145,7 @@
                 img(src="@/assets/curso/tema1/slide-3-2.png", alt="Equipo revisando documentos y recursos")
             .col-lg-7.order-lg-1
               h5 Previsión de recursos
-              p Además del análisis de la situación actual, la fase de planificación también implica una previsión de los recursos necesarios para la ejecución del plan. Esto incluye la asignación de recursos humanos, financieros, tecnológicos y materiales, asegurando que todos los aspectos estén cubiertos para que los objetivos puedan alcanzarse de manera eficiente y efectiva. Es fundamental definir un presupuesto claro y asignar los recursos de manera óptima para evitar desviaciones durante la implementación. En este sentido, la planificación no solo es estratégica, sino también práctica, puesto que proporciona las pautas específicas sobre cómo se llevarán a cabo las acciones necesarias.
+              p Además del análisis de la situación actual, la fase de planificación también implica una previsión de los recursos necesarios para la ejecución del plan. Esto incluye la asignación de recursos humanos, financieros, tecnológicos y materiales, asegurando que todos los aspectos estén cubiertos para que los objetivos puedan alcanzarse de manera eficiente y efectiva. Es fundamental definir un presupuesto claro y asignar los recursos de manera óptima para evitar desviaciones durante la implementación. En este sentido, la planificación no solo es estratégica, sino que también práctica, puesto que proporciona las pautas específicas sobre cómo se llevarán a cabo las acciones necesarias.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-lg-2
               figure
@@ -178,7 +178,7 @@
 
 
     h2 Hacer (H)
-    p La fase de “Hacer” del ciclo PHVA es crucial para la materialización de los planes establecidos en la fase de planificación. Durante esta etapa, las estrategias, objetivos y procesos previamente definidos se ponen en práctica. Es el momento en que las acciones diseñadas para alcanzar los resultados deseados son ejecutadas, lo que requiere una atención meticulosa a cada detalle para asegurar que todo se lleve a cabo, según lo previsto. La clave del éxito en esta fase radica en la correcta implementación de los procesos, lo que implica no solo seguir los pasos establecidos, sino también hacerlo con la calidad y eficiencia necesarias para cumplir los estándares esperados.
+    p La fase de "Hacer" del ciclo PHVA es crucial para la materialización de los planes establecidos en la fase de planificación. Durante esta etapa, las estrategias, objetivos y procesos previamente definidos se ponen en práctica. Es el momento en que las acciones diseñadas para alcanzar los resultados deseados son ejecutadas, lo que requiere una atención meticulosa a cada detalle para asegurar que todo se lleve a cabo, según lo previsto. La clave del éxito en esta fase radica en la correcta implementación de los procesos, lo que implica no solo seguir los pasos establecidos, sino también hacerlo con la calidad y eficiencia necesarias para cumplir los estándares esperados.
 
 
     TabsC.color-acento-contenido.mb-5
@@ -219,9 +219,253 @@
               img(src='@/assets/curso/tema1/tab-4.png', alt='')
     
 
+    .row.mb-5
+      .col-lg-8
+        p(data-aos="fade-left").mb-4 Durante esta etapa, también es vital tener en cuenta la flexibilidad. A pesar que los planes fueron establecidos con base en un análisis exhaustivo, el entorno organizacional y el contexto externo pueden cambiar, lo que puede generar la necesidad de adaptar la implementación a nuevas circunstancias. Por lo tanto, la capacidad para realizar ajustes rápidos y eficaces es una característica esencial para el éxito en la fase de ejecución.
+    
+        .bg-color-3.p-4(data-aos="fade-left")
+          p.mb-0 La fase de "Hacer" no solo implica llevar a cabo las acciones planificadas, sino también gestionar de manera efectiva los recursos, capacitar al personal adecuadamente, monitorear el desempeño, coordinar entre los equipos y mantener una flexibilidad para adaptarse a cualquier cambio que surja. Una implementación efectiva de los planes desarrollados en la fase de planificación es la base para el éxito de cualquier organización que busque mejorar continuamente sus procesos y lograr los objetivos estratégicos establecidos. 
+    
+      .col-lg-4
+        figure
+          img(src="@/assets/curso/tema1/6.png", data-aos="zoom-in")
+    
+    
+    h2 Verificar (V)
+    p La fase de "Verificar" es una etapa clave en el ciclo PHVA, porque permite evaluar la efectividad de la implementación del plan y asegurar que los objetivos establecidos en la fase de planificación se hayan alcanzado. Después de llevar a cabo las acciones definidas, es esencial detenerse a revisar y analizar los resultados obtenidos para verificar que se esté cumpliendo con lo planificado y que el rendimiento esté alineado con los estándares deseados. Esta evaluación no solo se enfoca en los logros alcanzados, sino también en identificar posibles desviaciones que puedan haber surgido durante la ejecución, lo que brinda la oportunidad de tomar acciones correctivas de manera oportuna.
+
+    .row.align-items-start.mb-5
+      .col-lg-4
+        figure
+          img(src="@/assets/curso/tema1/7.png", alt="").mb-4.mb-lg-0
+      .col-lg-8    
+        AcordionA(tipo="b")
+          .div(titulo="Recolección y análisis de datos")
+            p La recolección y análisis de datos son fundamentales en esta fase. A través de estos datos, se puede obtener una visión objetiva y detallada del desempeño de los procesos, lo que permite verificar si se han cumplido los resultados esperados. Estos datos pueden provenir de diferentes fuentes, como registros operativos, informes de desempeño, retroalimentación de clientes, o incluso resultados de pruebas y auditorías internas. El análisis de estos datos proporciona una base sólida para comprender si los objetivos establecidos en la planificación se han logrado en su totalidad o si existen áreas que requieren ajustes.
+    
+          .div(titulo="Identificación de desviaciones")
+            p Una de las actividades más importantes en esta fase es la identificación de desviaciones. A veces, aunque los planes se hayan implementado adecuadamente, pueden surgir situaciones imprevistas que alteren los resultados esperados. Detectar estas desviaciones es crucial, debido a que permite a la organización corregir los problemas antes que se conviertan en obstáculos mayores. Esto puede incluir aspectos como el incumplimiento de plazos, el uso inadecuado de recursos, la falta de calidad en los productos o servicios entregados, o problemas operativos que no fueron identificados previamente. Al detectar estas desviaciones, se pueden implementar acciones correctivas inmediatas para redirigir los esfuerzos hacia el cumplimiento de los objetivos.
+    
+          .div(titulo="Evaluación de procesos")
+            p Es importante recoger información sobre cómo se han desarrollado los procesos durante la ejecución, analizando tanto los procedimientos seguidos como la eficacia de los recursos utilizados. Esto permite obtener una visión completa de la operatividad de la organización y cómo cada uno de los componentes del proceso contribuye a los resultados finales. En algunos casos, esta evaluación también puede revelar oportunidades de mejora en los procesos mismos, incluso si se han logrado los objetivos previstos, lo que alimenta la cultura de mejora continua de la organización.
+    
+          .div(titulo="Auditorías y revisiones")
+            p Las auditorías y revisiones son herramientas fundamentales en esta fase para garantizar la imparcialidad y la precisión en la evaluación. Las auditorías internas y externas permiten realizar una evaluación sistemática e independiente de los procesos y resultados, proporcionando una visión objetiva de la situación. Estas auditorías pueden estar orientadas a aspectos específicos, como la calidad, la seguridad, el cumplimiento normativo, o la sostenibilidad, y ofrecen un diagnóstico claro sobre el estado de las operaciones. Las revisiones periódicas también facilitan la identificación de cualquier área de oportunidad para optimizar los procesos, mejorar la eficiencia y reducir riesgos en futuras ejecuciones.
+
+          .div(titulo="Retroalimentación")
+            p Un aspecto clave de esta fase es la retroalimentación. La verificación no solo se enfoca en la evaluación interna de los procesos, sino también en la obtención de retroalimentación de todas las partes interesadas, como empleados, clientes, proveedores y otras partes externas. Esta retroalimentación proporciona una perspectiva más amplia sobre la efectividad de las acciones tomadas y ayuda a comprender cómo los resultados se perciben desde diferentes puntos de vista. Además, la retroalimentación externa puede revelar aspectos no considerados previamente, lo que puede ser invaluable para ajustar los procesos y mejorar el rendimiento a largo plazo.
+
+
+    .bg-full-width.bg-color-1.mb-5
+      .px-4.px-md-5.py-4
+        .row.align-items-center
+          .col-lg-auto
+            img(src="@/assets/curso/tema1/8.svg", style="max-width: 90px").mx-auto
+          .col-lg
+            p.mb-0 La fase de verificación es fundamental para evaluar si los planes se han ejecutado con éxito y si los resultados obtenidos están alineados con los objetivos. La recolección y análisis de datos, la identificación de desviaciones, la evaluación de los procesos y el uso de auditorías y revisiones proporcionan las herramientas necesarias para asegurar que la organización esté en el camino correcto. Además, esta fase permite la recopilación de información valiosa para realizar ajustes y mejoras en los procesos, lo que impulsa la mejora continua y la capacidad de la organización para adaptarse a los cambios y desafíos que puedan surgir.
     
 
+    h2 Actuar (A)
+    p La fase de "Actuar" es el cierre del ciclo PHVA y marca un punto crítico en el proceso de mejora continua, dado que en esta etapa se toman decisiones claves basadas en los resultados obtenidos durante la fase de verificación. Una vez que se han evaluado los resultados y se han identificado las desviaciones, problemas o áreas de mejora, es necesario actuar para consolidar los logros alcanzados o corregir los aspectos que no han cumplido con las expectativas.
+
+    .row.align-items-start.mb-5#acordion-2
+      .col-lg-8
+        AcordionA(tipo="b")
+          .div(titulo="Estandarizar el proceso")
+            p Si los objetivos establecidos en la planificación se han alcanzado de manera satisfactoria, la acción principal consiste en estandarizar el proceso. Esto significa formalizar los métodos y prácticas que han demostrado ser efectivos durante la implementación, asegurando que se conviertan en una rutina operativa dentro de la organización. La estandarización ayuda a mantener la consistencia en los resultados a lo largo del tiempo y facilita la replicación de los procesos exitosos en otras áreas o departamentos. Al aplicar este enfoque, la organización no solo mejora la eficiencia de los procesos actuales, sino que también puede extender las buenas prácticas a otras partes de la empresa, lo que contribuye al crecimiento y la optimización general.
     
+          .div(titulo="Reflexión crítica")
+            p Por otro lado, si los resultados no son los esperados y los objetivos no se han alcanzado, la fase de "Actuar" implica una reflexión crítica sobre lo sucedido. Es fundamental realizar un análisis detallado de las causas que han llevado a no cumplir con los objetivos, lo cual puede involucrar la revisión de la planificación inicial, los recursos asignados, la ejecución de los procesos o incluso factores externos que hayan afectado el desempeño. En esta etapa, es necesario rediseñar el plan de acción para corregir las deficiencias identificadas, tomar medidas correctivas y optimizar los procesos para asegurarse que los objetivos sean alcanzables en un nuevo ciclo.
+    
+          .div(titulo="Ajustes y corrección")
+            p Los ajustes realizados pueden implicar la reestructuración de procesos, la reasignación de recursos, la actualización de procedimientos o la implementación de nuevas estrategias que mejoren la ejecución. Este proceso de corrección debe ser meticuloso y basado en la evidencia obtenida durante la fase de verificación, puesto que esto garantiza que las soluciones propuestas sean prácticas y estén alineadas con las necesidades y capacidades de la organización. Además, en esta etapa es importante involucrar a las partes interesadas relevantes, como empleados y proveedores, para asegurarse que las soluciones sean efectivas y sean aceptadas por todos los actores involucrados.
+    
+          .div(titulo="Flexibilidad")
+            p Una de las características claves de esta fase es la flexibilidad. En lugar de seguir estrictamente el plan inicial, el ciclo PHVA invita a las organizaciones a adaptarse y evolucionar en función de lo aprendido durante el ciclo anterior. Esto fomenta un enfoque dinámico y proactivo en la mejora de los procesos, porque cada ciclo PHVA se convierte en una oportunidad para aprender y mejorar. Al tomar decisiones basadas en los resultados obtenidos, las organizaciones pueden fortalecer sus sistemas de gestión y aumentar su capacidad para enfrentar desafíos futuros.
+    
+      .col-lg-4
+        figure
+          img(src="@/assets/curso/tema1/9.png", alt="").mb-4.mb-lg-0
+
+
+    .row.mb-5
+      .col-lg-4
+        figure
+          img(src="@/assets/curso/tema1/10.png", data-aos="zoom-in")
+      .col-lg-8
+        p(data-aos="fade-left").mb-4 Además, la fase de "Actuar" no solo cierra el ciclo actual, sino que también da inicio a un nuevo ciclo de planificación. La retroalimentación obtenida durante esta etapa es crucial para el desarrollo de nuevos planes y objetivos que sean más realistas y estén mejor alineados con la realidad actual de la organización. Este ciclo continuo de evaluación, ajuste y mejora es lo que garantiza que la organización se mantenga en una constante evolución y pueda adaptarse a los cambios del entorno empresarial, las expectativas del cliente y las innovaciones tecnológicas.
+    
+        .bg-color-1.p-4(data-aos="fade-left")
+          p.mb-0 La fase de "Actuar" es fundamental para asegurar que la organización aprenda de su desempeño, celebre los éxitos alcanzados y tome medidas correctivas cuando sea necesario. Esta etapa culmina el ciclo PHVA y abre la puerta a un nuevo ciclo, lo que garantiza que la organización continúe evolucionando, mejorando su eficacia y eficiencia en cada ciclo sucesivo. La capacidad para adaptarse, corregir y mejorar continuamente es lo que permite a las organizaciones mantenerse competitivas y sostenibles en un entorno empresarial dinámico. 
+    
+    h2 Interrelación entre los principios de gestión y el Ciclo PHVA
+    p La implementación efectiva del ciclo PHVA (Planificar, Hacer, Verificar, Actuar) no solo depende de un enfoque sistemático en la gestión de procesos, sino que se ve profundamente potenciada y fortalecida por los principios fundamentales de los sistemas de gestión. Estos principios sirven como los cimientos que guían cada una de las fases del ciclo, asegurando que la organización no solo esté orientada a la eficiencia y efectividad, sino también a la mejora continua y al cumplimiento de sus objetivos estratégicos:
+
+    .bg-full-width.bg-fondo-slider.mb-5#slyde-2
+      .p-4.p-md-5
+        SlyderA(tipo="b").bg-white
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5
+              figure
+                img(src="@/assets/curso/tema1/slide-1-3.png", alt="Equipo de trabajo analizando necesidades del cliente")
+            .col-lg-7
+              h4 El enfoque en el cliente
+              p Uno de los principios fundamentales, tiene un papel crucial en la fase de Planificación del ciclo PHVA. Al comprender las necesidades y expectativas del cliente, las organizaciones pueden diseñar acciones y objetivos alineados con la creación de valor para el cliente, lo que a su vez mejora la satisfacción y la lealtad del mismo. Este principio guía el diseño de los procesos, asegurando que cada acción tomada dentro del ciclo esté orientada a la mejora de la experiencia del cliente, y no solo al cumplimiento de los requisitos internos de la organización. Esto establece una dirección clara durante el ciclo PHVA, donde las decisiones se toman con el cliente en el centro de la estrategia.
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5
+              figure
+                img(src="@/assets/curso/tema1/slide-2-3.png", alt="Equipo de liderazgo en reunión estratégica")
+            .col-lg-7
+              h4 El liderazgo
+              p Otro principio clave, también es esencial para la correcta implementación del ciclo PHVA. En la fase de Hacer, el liderazgo efectivo motiva e involucra a todos los niveles de la organización en el proceso de ejecución. Los líderes no solo establecen la visión y los objetivos, sino que también impulsan a los equipos a trabajar de manera colaborativa y con compromiso, lo que facilita la implementación exitosa de los planes. El liderazgo proporciona la dirección necesaria para tomar decisiones críticas durante la fase de Verificar, donde es crucial que los líderes analicen los resultados y orienten a la organización hacia las correcciones o mejoras que deben implementarse. El liderazgo actúa como el motor que impulsa la ejecución del ciclo PHVA, de manera cohesiva y enfocada.
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5
+              figure
+                img(src="@/assets/curso/tema1/slide-3-3.png", alt="Equipo de trabajo colaborando en proyecto")
+            .col-lg-7
+              h4 La participación del personal
+              p Es fundamental para asegurar que cada miembro de la organización esté alineado con los objetivos establecidos. La participación activa de los empleados, que se refleja en su involucramiento durante todas las fases del ciclo, aporta un conocimiento valioso y una perspectiva enriquecedora. Durante la fase de Actuar, los comentarios y sugerencias de los empleados pueden ser clave para identificar áreas de mejora o para aportar soluciones innovadoras a los problemas que surjan. El compromiso y la participación del personal en la toma de decisiones y en la mejora de procesos permiten que la organización sea más ágil y capaz de adaptarse a los cambios y desafíos.
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5
+              figure
+                img(src="@/assets/curso/tema1/slide-4-3.png", alt="Equipo revisando indicadores de mejora")
+            .col-lg-7
+              h4 La mejora continua
+              p Es un principio y un componente integral del ciclo PHVA que se convierte en el motor que impulsa la evolución constante de los procesos y prácticas dentro de la organización. A lo largo de cada ciclo, la organización se enfrenta a oportunidades de aprendizaje, donde las lecciones del pasado se convierten en acciones para el futuro. Este enfoque continuo de revisión y mejora, asegura que los resultados sean cada vez más eficientes, eficaces y alineados con los objetivos estratégicos de la empresa. La mejora continua no solo se aplica a los procesos internos, sino que también permite que la organización se mantenga flexible ante los cambios del mercado, la tecnología o las necesidades de los clientes, lo que se traduce en una mayor competitividad a largo plazo.
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5
+              figure
+                img(src="@/assets/curso/tema1/slide-5-3.png", alt="Equipo analizando datos y tomando decisiones")
+            .col-lg-7
+              h4 La toma de decisiones
+              p Basada en evidencias, también juega un papel clave al garantizar que las decisiones dentro del ciclo PHVA se fundamenten en datos y hechos objetivos, y no en suposiciones o intuiciones. Durante las fases de Verificar y Actuar, el análisis de los datos recolectados proporciona una base sólida para evaluar si los objetivos han sido alcanzados y para decidir qué acciones tomar a continuación. Esto permite a las organizaciones reducir la incertidumbre, minimizar riesgos y tomar decisiones más informadas que favorezcan al éxito sostenido.
+          .row.align-items-center.p-4.p-md-5
+            .col-lg-5
+              figure
+                img(src="@/assets/curso/tema1/slide-6-3.png", alt="Equipo en reunión con proveedores")
+            .col-lg-7
+              h4 La gestión de relaciones
+              p Con los proveedores y otras partes interesadas, es otra parte vital de la interrelación entre los principios y el ciclo PHVA. En la fase de planificación, las organizaciones deben considerar las relaciones estratégicas con los proveedores como una forma de asegurar la calidad de los recursos necesarios para ejecutar los planes. Una vez que los procesos se han implementado, las relaciones con los proveedores siguen siendo fundamentales para garantizar que los productos y servicios sean de calidad, cumplan con los plazos establecidos y se ajusten a las expectativas de los clientes.
+    
+    .bg-full-width.bg-color-1.mb-5
+      .px-4.px-md-5.py-4
+        .row.align-items-center
+          .col-lg-auto
+            img(src="@/assets/curso/tema1/11.svg", style="max-width: 90px").mx-auto
+          .col-lg
+            p.mb-0 En conjunto, los principios de gestión y el ciclo PHVA no solo se complementan, sino que se refuerzan mutuamente. Los principios proporcionan un marco teórico y ético para la ejecución efectiva del ciclo, mientras que el ciclo PHVA ofrece la estructura práctica para llevar esos principios a la acción. Esta sinergia permite a las organizaciones adaptarse, innovar y mantenerse competitivas en un entorno cada vez más dinámico y exigente. Al adoptar ambos conceptos, las organizaciones tienen una ventaja clara: un enfoque sistemático, centrado en la mejora continua, que les permite no solo responder a los desafíos actuales, sino también anticiparse a las futuras oportunidades y mantener su relevancia en el mercado a largo plazo. 
+    
+
+    #t_1_3.titulo-segundo(data-aos="flip-up")
+      h2 #[span 1.3] Estructura de alto nivel
+
+
+    .row.mb-5
+      .col-lg-8
+        p(data-aos="fade-left").mb-4 La estructura de alto nivel (HLS, por sus siglas en inglés) es un marco común que ha sido establecido por la Organización Internacional de Normalización (ISO) para facilitar la integración de diferentes sistemas de gestión. Esta estructura se ha adoptado en varias normas de gestión, incluyendo ISO 9001 (sistemas de gestión de la calidad), ISO 14001 (sistemas de gestión ambiental) e ISO 45001 (sistemas de gestión de la salud y la seguridad en el trabajo). A continuación, se presenta un análisis de esta estructura y sus principales componentes.
+    
+        .bg-color-2.p-4(data-aos="fade-left").mb-4
+          p.mb-0 La estructura de alto nivel proporciona un esquema coherente que permite a las organizaciones implementar y gestionar de manera eficiente múltiples sistemas de gestión. Este enfoque facilita la alineación de objetivos y la optimización de recursos, promoviendo una cultura de mejora continua. 
+
+
+        p La estructura de alto nivel se compone de diez cláusulas que se pueden describir de la siguiente manera:
+    
+      .col-lg-4
+        figure
+          img(src="@/assets/curso/tema1/12.png", data-aos="zoom-in")
+    
+    
+
+    .bg-full-width.bg-color-info
+      .p-4.p-md-5
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-10
+            ImagenInfografica.color-secundario
+              template(v-slot:imagen)
+                figure
+                  img(src='@/assets/curso/tema1/info1.png', alt='', style="max-width: 1160px;").mx-auto
+    
+              .bg-color-white.box-shadow.p-3(x="12%" y="11%" numero="1")
+                h5 Contexto de la organización
+                p Enmarca la necesidad de entender el entorno interno y externo en el que opera la organización, así como las partes interesadas y sus expectativas. Esto es crucial para establecer un sistema de gestión que sea relevante y efectivo.
+    
+              .bg-color-white.box-shadow.p-3(x="7%" y="30%" numero="2")
+                h5 Liderazgo
+                p La alta dirección debe demostrar liderazgo y compromiso con el sistema de gestión, asegurando que se integre en la estrategia y los procesos de la organización. Esto incluye la asignación de roles y responsabilidades claras y la promoción de una cultura que fomente la participación y el compromiso. Anteriormente lo habíamos mencionado.
+    
+              .bg-color-white.box-shadow.p-3(x="1%" y="49%" numero="3")
+                h5 Planificación
+                p Aquí se trata de establecer objetivos y determinar los riesgos y oportunidades que pueden afectar el logro de esos objetivos. Esta cláusula también abarca la planificación de cambios y la identificación de recursos necesarios.
+    
+              .bg-color-white.box-shadow.p-3(x="7%" y="68%" numero="4")
+                h5 Apoyo
+                p Se refiere a los recursos necesarios para implementar y mantener el sistema de gestión, incluyendo la infraestructura, el ambiente de trabajo, la competencia del personal y la comunicación. Un soporte adecuado es esencial para el éxito del sistema.
+    
+              .bg-color-white.box-shadow.p-3(x="12%" y="88%" numero="5")
+                h5 Operación
+                p Se aborda la implementación y el control de los procesos necesarios para cumplir con los requisitos y alcanzar los objetivos establecidos. Implica la gestión de riesgos y oportunidades en las operaciones diarias.
+    
+              .bg-color-white.box-shadow.p-3(x="88%" y="11%" numero="6")
+                h5 Evaluación del desempeño
+                p Se centra en la monitorización, medición, análisis y evaluación del desempeño del sistema de gestión. Esta cláusula es fundamental para identificar áreas de mejora y para asegurar la eficacia del sistema.
+    
+              .bg-color-white.box-shadow.p-3(x="93%" y="30%" numero="7")
+                h5 Mejora
+                p Aquí se establece la necesidad de mejorar continuamente el sistema de gestión. Esto incluye la gestión de no conformidades y la implementación de acciones correctivas y preventivas.
+    
+              .bg-color-white.box-shadow.p-3(x="99%" y="49%" numero="8")
+                h5 Resultados de la evaluación
+                p Se enfoca en la revisión de la eficacia del sistema de gestión y la toma de decisiones informadas basadas en datos y evidencias.
+    
+              .bg-color-white.box-shadow.p-3(x="93%" y="68%" numero="9")
+                h5 Revisión por la dirección
+                p Implica que la alta dirección debe evaluar regularmente el sistema de gestión para asegurar su adecuación, eficacia y alineación con los objetivos estratégicos de la organización.
+    
+              .bg-color-white.box-shadow.p-3(x="88%" y="88%" numero="10")
+                h5 Documentación y registros
+                p Aunque no se presenta como una cláusula independiente, la gestión de la documentación y los registros es un componente esencial que permite la trazabilidad y el control de los procesos.
+
+
+    .bg-full-width.border-top.actividad.bg-color-actividad
+      .p-4.p-md-5
+        #Actividad                
+          <Actividad :cuestionario="cuestionario"/>
+
+    .bg-full-width.border-top.color-primario
+      .p-4.p-md-5
+        h2(data-aos="fade-left") MATERIAL COMPLEMENTARIO
+        .row.material-complementario
+          .col-12.col-md-6.col-lg-7
+            p Los invitamos a explorar el material complementario de este curso, en esta sección encontrará recursos que le permitirán profundizar  y enriquecer su aprendizaje en los temas tratados en esta unidad.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/105584" target="_blank" rel="noopener noreferrer") Gómez Martínez, J. A. (2019). Guía para la aplicación de UNE-EN ISO 9001:2015: ( ed.). AENOR - Asociación Española de Normalización y Certificación.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/114208" target="_blank" rel="noopener noreferrer") López Lemos, P. (2015). Cómo documentar un sistema de gestión de calidad según ISO 9001:2015: ( ed.). FC Editorial. 
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/273394" target="_blank" rel="noopener noreferrer") Dumar Rueda, J. E. (2022). Implementación de ISO 9001 2015: bajo la perspectiva de la enseñanza y aprendizaje: (1 ed.). Corporación Universitaria del Caribe - CECAR. 
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=uD4_J7t4IeQ" target="_blank" rel="noopener noreferrer") PROMPERÚ Oficial. (2018, 30 de julio). ISO 9001:2015 Gestión de la Calidad: LÓPEZ, Gary (18 de julio) 
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=9cYEzKM4Mro" target="_blank" rel="noopener noreferrer") EUDE Business School. (2021, 30 de julio). 20140530 PATRICIA GONZALEZ MASTERCLASS SISTEMAS DE GESTIÓN DE LA CALIDAD II PARTE 1
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=3KSlhx9La7g" target="_blank" rel="noopener noreferrer") Flavio Welmer Reyes Rodas. (2020, 19 de junio). Interpretación de la Norma ISO 9001:2015. Módulo I, sesión 1, parte 1
+
+          .col-12.col-md-6.col-lg-3.offset-lg-1
+            figure
+              img(src='@/assets/componentes/material-complementario.svg', alt='')
+
     //////////////////////////
     //////////////////////////
     //////////////////////////
@@ -234,10 +478,189 @@
 </template>
 
 <script>
+import Actividad from '@/components/actividad/Actividad.vue'
 export default {
   name: 'Tema1',
-  data: () => ({}),
-
+  components: {
+    Actividad,
+  },
+  data() {
+    return {
+      cuestionario: {
+        tema: 'Teorías y métodos de integración',
+        titulo: 'Ponte a prueba',
+        introduccion:
+          'Demuestra lo que aprendiste en esta unidad y pon a prueba tus conocimientos.',
+        barajarPreguntas: true,
+        preguntas: [
+          {
+            id: 1,
+            texto:
+              '¿Cuál de los siguientes es un principio fundamental de los sistemas de gestión?',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              {
+                id: 'a',
+                texto: 'Satisfacción del cliente',
+                esCorrecta: true,
+              },
+              {
+                id: 'b',
+                texto: 'Aumento de costos',
+                esCorrecta: false,
+              },
+              {
+                id: 'c',
+                texto: 'Rigidez en los procesos',
+                esCorrecta: false,
+              },
+              {
+                id: 'd',
+                texto: 'Falta de comunicación',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto:
+              'El enfoque en el cliente es esencial para mejorar la satisfacción y fomentar la lealtad, lo cual es crucial para el éxito a largo plazo.',
+            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          },
+          {
+            id: 2,
+            texto: 'La estructura de alto nivel (HLS) es importante porque:',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              {
+                id: 'a',
+                texto: 'Aumenta la complejidad de los procesos',
+                esCorrecta: false,
+              },
+              {
+                id: 'b',
+                texto:
+                  'Facilita la integración de diferentes sistemas de gestión',
+                esCorrecta: true,
+              },
+              {
+                id: 'c',
+                texto: 'Ignora las normativas internacionales',
+                esCorrecta: false,
+              },
+              {
+                id: 'd',
+                texto: 'Se centra únicamente en la gestión de calidad',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto:
+              'La HLS proporciona un marco común que ayuda a las organizaciones a gestionar múltiples sistemas de manera eficiente y alineada.',
+            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          },
+          {
+            id: 3,
+            texto: 'La gestión basada en riesgos ayuda a las organizaciones a:',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              {
+                id: 'a',
+                texto: 'Ignorar los problemas potenciales',
+                esCorrecta: false,
+              },
+              {
+                id: 'b',
+                texto: 'Anticiparse a posibles incidentes y mitigarlos',
+                esCorrecta: true,
+              },
+              {
+                id: 'c',
+                texto: 'Aumentar la burocracia',
+                esCorrecta: false,
+              },
+              {
+                id: 'd',
+                texto: 'Reducir la comunicación entre departamentos',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto:
+              'La gestión basada en riesgos es esencial para asegurar que las organizaciones tomen medidas proactivas ante posibles contingencias.',
+            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          },
+          {
+            id: 4,
+            texto:
+              '¿Qué se busca lograr a través de la mejora continua en los sistemas de gestión?',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              {
+                id: 'a',
+                texto: 'Mantener prácticas antiguas',
+                esCorrecta: false,
+              },
+              {
+                id: 'b',
+                texto: 'Aumentar la rigidez organizacional',
+                esCorrecta: false,
+              },
+              {
+                id: 'c',
+                texto:
+                  'Buscar constantemente formas de aumentar el rendimiento y eficacia',
+                esCorrecta: true,
+              },
+              {
+                id: 'd',
+                texto: 'Reducir la participación del personal',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto:
+              'La mejora continua es un principio clave que impulsa a las organizaciones a adaptarse y optimizar sus procesos de manera sistemática.',
+            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          },
+          {
+            id: 5,
+            texto: '¿Cuál es una de las ventajas de implementar el Ciclo PHVA?',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              {
+                id: 'a',
+                texto: 'Facilita la confusión en los procesos',
+                esCorrecta: false,
+              },
+              {
+                id: 'b',
+                texto:
+                  'Proporciona un método sistemático para la mejora continua',
+                esCorrecta: true,
+              },
+              {
+                id: 'c',
+                texto: 'Aumenta los costos operativos',
+                esCorrecta: false,
+              },
+              {
+                id: 'd',
+                texto: 'Promueve la falta de planificación',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto:
+              'El Ciclo PHVA permite a las organizaciones evaluar y ajustar sus procesos regularmente, promoviendo un ambiente de aprendizaje y adaptación.',
+            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          },
+        ],
+        mensaje_final_aprobado:
+          '¡Felicitaciones! Has demostrado un buen entendimiento de los principios y métodos de integración de sistemas de gestión.',
+        mensaje_final_reprobado:
+          'Te recomendamos repasar los conceptos clave de la unidad, especialmente lo relacionado con los principios fundamentales y el ciclo PHVA.',
+      },
+    }
+  },
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()
@@ -246,4 +669,7 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.bg-color-actividad
+  background-color: #EBF1F5
+</style>
