@@ -1,8 +1,7 @@
 export default {
   global: {
     numeroUnidad: '2',
-    tituloUnidad:
-      'Integración de los sistemas de gestión y la gestión integral',
+    tituloUnidad: 'Teorías y métodos de integración',
   },
   menuPrincipal: {
     menu: [
@@ -173,12 +172,12 @@ export default {
     {
       termino: 'Participación del personal',
       significado:
-        'Involucramiento activo de los empleados en la toma de decisiones y procesos organizacionales',
+        'Involucramiento activo de los empleados en la toma de decisiones y procesos organizacionales.',
     },
     {
       termino: 'Pensamiento sistémico',
       significado:
-        'Enfoque que permite entender las interrelaciones entre diferentes áreas de una organización y su impacto en el desempeño',
+        'Enfoque que permite entender las interrelaciones entre diferentes áreas de una organización y su impacto en el desempeño.',
     },
   ],
 }
